@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithesh.s\\Desktop\\Rithesh_frontend\\dot  net\\Backend_Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFB0110-1760-47DF-9F08-9F3C8DB1DFA0}|Backend_Crud\\Backend_Crud.csproj|c:\\users\\rithesh.s\\desktop\\rithesh_frontend\\dot  net\\backend_crud\\backend_crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFB0110-1760-47DF-9F08-9F3C8DB1DFA0}|Backend_Crud\\Backend_Crud.csproj|solutionrelative:backend_crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rithesh.s\\AppData\\Local\\Temp\\av34nmfs..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFB0110-1760-47DF-9F08-9F3C8DB1DFA0}|Backend_Crud\\Backend_Crud.csproj|c:\\users\\rithesh.s\\desktop\\rithesh_frontend\\dot  net\\backend_crud\\backend_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFB0110-1760-47DF-9F08-9F3C8DB1DFA0}|Backend_Crud\\Backend_Crud.csproj|solutionrelative:backend_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFB0110-1760-47DF-9F08-9F3C8DB1DFA0}|Backend_Crud\\Backend_Crud.csproj|c:\\users\\rithesh.s\\desktop\\rithesh_frontend\\dot  net\\backend_crud\\backend_crud\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFB0110-1760-47DF-9F08-9F3C8DB1DFA0}|Backend_Crud\\Backend_Crud.csproj|solutionrelative:backend_crud\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFB0110-1760-47DF-9F08-9F3C8DB1DFA0}|Backend_Crud\\Backend_Crud.csproj|c:\\users\\rithesh.s\\desktop\\rithesh_frontend\\dot  net\\backend_crud\\backend_crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFB0110-1760-47DF-9F08-9F3C8DB1DFA0}|Backend_Crud\\Backend_Crud.csproj|solutionrelative:backend_crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rithesh.s\\AppData\\Local\\Temp\\av34nmfs..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rithesh.s\\AppData\\Local\\Temp\\av34nmfs..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\rithesh.s\\Desktop\\Rithesh_frontend\\dot  net\\Backend_Crud\\Backend_Crud\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Backend_Crud\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\rithesh.s\\Desktop\\Rithesh_frontend\\dot  net\\Backend_Crud\\Backend_Crud\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Backend_Crud\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAwwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:54:18.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\rithesh.s\\AppData\\Local\\Temp\\av34nmfs..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\av34nmfs..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-22T09:52:34.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rithesh.s\\Desktop\\Rithesh_frontend\\dot  net\\Backend_Crud\\Backend_Crud\\Program.cs",
+              "RelativeDocumentMoniker": "Backend_Crud\\Program.cs",
+              "ToolTip": "C:\\Users\\rithesh.s\\Desktop\\Rithesh_frontend\\dot  net\\Backend_Crud\\Backend_Crud\\Program.cs",
+              "RelativeToolTip": "Backend_Crud\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:34:39.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\rithesh.s\\Desktop\\Rithesh_frontend\\dot  net\\Backend_Crud\\Backend_Crud\\Models\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "Backend_Crud\\Models\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\rithesh.s\\Desktop\\Rithesh_frontend\\dot  net\\Backend_Crud\\Backend_Crud\\Models\\EmployeeContext.cs",
+              "RelativeToolTip": "Backend_Crud\\Models\\EmployeeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:17:21.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\rithesh.s\\Desktop\\Rithesh_frontend\\dot  net\\Backend_Crud\\Backend_Crud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Backend_Crud\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\rithesh.s\\Desktop\\Rithesh_frontend\\dot  net\\Backend_Crud\\Backend_Crud\\Models\\Employee.cs",
+              "RelativeToolTip": "Backend_Crud\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:05:04.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
